@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\bin\Debug\MouseClickWPF.exe.config
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\bin\Debug\MouseClickWPF.exe
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\bin\Debug\MouseClickWPF.pdb
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF_MarkupCompile.cache
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF_MarkupCompile.lref
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.g.resources
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.Properties.Resources.resources
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.exe
+C:\Users\Admin\source\repos\MouseClickWPF\MouseClickWPF\obj\Debug\MouseClickWPF.pdb
